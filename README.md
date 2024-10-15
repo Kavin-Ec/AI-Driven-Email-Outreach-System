@@ -5,7 +5,7 @@ To Run the Overall Project:
 
 To activate the venv(meta llama): 
 1)cd project
-2) first start the serve in LM Studio
+2) first start the server(Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf - model) in LM Studio
 3).\llama\Scripts\Activate.ps1 ( both in frontend and backend)
 
 To run the backend:
